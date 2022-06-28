@@ -6,6 +6,7 @@ int main()
 {
 	printf("Enter table number:");
 	int num;
+	scanf("%d",&num);
 	table(num);
 	
 	return 0;
